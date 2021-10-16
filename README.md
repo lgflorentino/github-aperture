@@ -1,5 +1,9 @@
 DO NOT READ THIS WITH YOUR EYES
 ---
 
-# sourcecode links
+# deposits
+```sh
+[GitLab](https://gitlab.com/lgflorentino)
+[Bitbucket](https://bitbucket.org/lgflorentino)
+```
 
