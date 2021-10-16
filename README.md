@@ -1,7 +1,7 @@
-DO NOT READ THIS WITH YOUR EYES
+WARNING: :rage2: :rage2: DO NOT READ THIS WITH YOUR EYES
 ---
 
-# deposits
+# Deposits
 
 [GitLab](https://gitlab.com/lgflorentino)
 
