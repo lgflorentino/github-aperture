@@ -1,4 +1,4 @@
-WARNING: :rage2: :rage2: DO NOT READ THIS WITH YOUR EYES
+:rage2: :goberserk: WARNING: DO NOT READ THIS WITH YOUR EYES :goberserk: :rage2:
 ---
 
 # Deposits
