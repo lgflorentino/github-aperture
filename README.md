@@ -7,5 +7,6 @@
 
 [Bitbucket](https://bitbucket.org/lgflorentino)
 
-[SourceHut](https://sr.ht/~lgflorentino)
+[SourceHut](https://sr.ht/~lgflorentino)  
+[Codeberg](https://codeberg.org/lgflorentino)
 
