@@ -3,10 +3,9 @@
 
 # :cherry_blossom::rosette: Generatrix :rosette::cherry_blossom:
 
-[GitLab](https://gitlab.com/lgflorentino)
-
-[Bitbucket](https://bitbucket.org/lgflorentino)
-
+[GitLab](https://gitlab.com/lgflorentino)  
+[Bitbucket](https://bitbucket.org/lgflorentino)  
 [SourceHut](https://sr.ht/~lgflorentino)  
-[Codeberg](https://codeberg.org/lgflorentino)
+[Codeberg](https://codeberg.org/lgflorentino)  
+
 
