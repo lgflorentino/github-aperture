@@ -1,7 +1,7 @@
-:rage2: :goberserk: WARNING: DO NOT READ THIS WITH YOUR EYES :goberserk: :rage2:
+:warning: :warning: :rage2: :goberserk: WARNING: DO NOT READ THIS WITH YOUR EYES :goberserk: :rage2: :warning: :warning:
 ---
 
-# Deposits
+# :cherry_blossom::rosette: Deposits
 
 [GitLab](https://gitlab.com/lgflorentino)
 
