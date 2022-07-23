@@ -1,4 +1,4 @@
-:warning: :warning: :rage2: :goberserk: WARNING: DO NOT READ THIS WITH YOUR EYES :goberserk: :rage2: :warning: :warning:
+:warning: :warning: :rage2: :goberserk: ngayuwa ngiyenjama ngayuwa kiyaminama ngeningawurramalya ngambuma wurribina yiburra wurrambumamirriya :goberserk: :rage2: :warning: :warning:
 ---
 
 # :cherry_blossom::rosette: Generatrix :rosette::cherry_blossom:
